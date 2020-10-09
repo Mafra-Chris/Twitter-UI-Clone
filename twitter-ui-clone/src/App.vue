@@ -120,7 +120,7 @@ export default {
 			id: "home",
 			dropdown: false,
 			trending: [
-				{top: 'Trending in TX', title: 'Milena é idiota', bottom: 'Trending with: Rip Gigi'},
+				{top: 'Trending in TX', title: 'Gigi', bottom: 'Trending with: Rip Gigi'},
 				{top: 'Music', title: 'We Won', bottom: '135k Tweets'},
 				{top: 'Pop', title: 'Blue Ivy', bottom: '40k Tweets'},
 				{top: 'Trending in US', title: 'Denim Day', bottom: '40k Tweets'},
